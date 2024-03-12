@@ -1,0 +1,19 @@
+body {
+    background-color: #1E1E1E;
+    color: #EAEAEA;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    color: #5DB98D;
+}
+
+.subtitle {
+    color: #9A9A9A;
+}
+
+h3 {
+    color: #5DB98D;
+}
